@@ -1,0 +1,16 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/svm.mp4",
+            "title": "SVM",
+            "description": "React.js, JSX, styled-components",
+            "url": "https://scottsvalleymagnetics.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/2/sync.mp4",
+            "title": "SVM",
+            "description": "React.js, JSX, styled-components",
+            "url": "https://scottsvalleymagnetics.netlify.app/"
+        }
+    ]
+}
