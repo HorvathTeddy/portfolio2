@@ -14,6 +14,7 @@
 }
 
 .cubespinner {
+    background-color: black;
     animation-name: spincube;
     animation-timing-function: ease-in-out;
     animation-iteration-count: infinite;
@@ -33,7 +34,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        box-shadow: 0 0 20px 0 lightyellow;
+        box-shadow: 0 0 20px 0 gray;
     }
 
     .face1 {

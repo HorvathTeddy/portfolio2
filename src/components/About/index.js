@@ -29,7 +29,7 @@ const About = () => {
                     My name is Teddy Horvath and I am dedicated to writing effective and impactful code.
                 </p>
                 <p style={{fontSize: '20px', color: '#000'}}>
-                    I am a 22 year old from Jacksonville, FL currently searching for a challenging software engineering opportunity.  I have been programming since 2019 and I absolutely love it. My goal is to positively impact as many people's lives as I can with software.
+                    I am a 22 year old from Jacksonville, FL currently working as a software developer for Inspection Depot.  I have been programming since 2019 and I absolutely love it. My goal is to positively impact as many people's lives as I can with software.
                 </p>
                 <p style={{fontSize: '20px', color: '#000'}}>
                     Besides my adoration for all things technology, I also love swimming in the cold ocean, hiking in thick forests, and connecting with friends through a good conversation.
