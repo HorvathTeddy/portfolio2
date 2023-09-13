@@ -75,7 +75,7 @@ const Sidebar = () => {
             className='burger-show'
             target='_blank'
             rel='noreferrer'
-            href='https://docs.google.com/document/d/e/2PACX-1vSBkQgUc2RbIvO2_dfrQOSEq5Xs8uSaiColbqG_jSBactffDSPbXAudN_fytC0hg7iUzwKUHXR0ROpH/pub'    
+            href='https://docs.google.com/document/d/e/2PACX-1vSz-yeISLDE_M6BV8v_4YzZlR3qO1X4WJe0PX3ZEJlck57ZKDQuvacFycM-puVSQtuDge23ReiA3j7e/pub'    
         >
             <FontAwesomeIcon icon={faPlug} color='#4d4d4e' />
         </a>
